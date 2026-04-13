@@ -1,0 +1,14 @@
+flask
+flask-socketio
+eventlet
+flask-cors
+sqlalchemy
+flask-sqlalchemy
+numpy
+torch
+torchvision
+torchaudio
+reportlab
+gymnasium
+pandas
+matplotlib
